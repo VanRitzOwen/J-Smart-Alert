@@ -6,7 +6,7 @@ services:
     container_name: jsmart_alert
     #映射工作目录：上线和开发需要根据环境配置
     volumes:
-      - /atman360/app/j_smart_alert/code:/var/www/8081:rw
+      - /app/j_smart_alert/code:/var/www/8081:rw
 
     #执行启动命令
     command: bash -c "chmod 777 -R /var/www/8081/start.sh;/var/www/8081/start.sh dev"
