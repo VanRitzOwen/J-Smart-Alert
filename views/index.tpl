@@ -8,7 +8,7 @@
     <script type="text/javascript" src="/js/jquery.min.js"></script>
     <script type="text/javascript" src="/js/index.js"></script>
     <link rel="stylesheet" href="/less/index.css">
-    <title>Document</title>
+    <title>J - Smart - JNJ Internal Machine Translation System</title>
 </head>
 <body>
     <div class="main">
